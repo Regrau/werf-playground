@@ -1,6 +1,6 @@
 project: werfen
 configVersion: 1
-
+---
 image: reg.localhost:5000/api
 dockerfile: Dockerfile
 context: .
